@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import UserList from "./components/UserList";
 import UserDetail from "./components/UserDetail";
 import Nav from "./components/Nav";
