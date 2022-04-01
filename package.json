@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Using nodejs, react and github APIs, to list git users, select user details and see their repos",
   "main": "server.js",
+  "engines": {
+    "node": "16.9.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
