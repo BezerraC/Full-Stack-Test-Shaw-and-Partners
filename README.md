@@ -1,6 +1,6 @@
 # shaw-test
 
-> Available for testing: [HERE](https://diogo-scoz-shaw-test.herokuapp.com/)
+> Available for testing: [HERE](https://carlos-bezerra-full-stack-test.herokuapp.com/)
 >> A [React.js](https://reactjs.org/) project + [NodeJs](https://nodejs.org/) + [ExpressJs](https://expressjs.com/) 
 
 Full-stack test for Shaw and Partners using github API/v3.
