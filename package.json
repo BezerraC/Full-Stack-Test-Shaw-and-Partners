@@ -12,7 +12,7 @@
     "client-install": "npm install --prefix client",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Diogo Pietro Scoz",
+  "author": "Carlos Bezerra",
   "license": "MIT",
   "dependencies": {
     "camelcase": "^5.3.1",
